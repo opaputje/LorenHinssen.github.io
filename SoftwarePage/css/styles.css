@@ -611,7 +611,10 @@ progress {
   max-width: 100%;
   height: auto;
 }
-
+.img-exit {
+    height:73px;
+    width: 90px;
+}
 .figure {
   display: inline-block;
 }
