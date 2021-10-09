@@ -588,6 +588,10 @@ progress {
 .blockquote > :last-child {
   margin-bottom: 0;
 }
+.img-fluid {
+    height="257.11" 
+    width="356"
+}
 
 .blockquote-footer {
   margin-top: -1rem;
