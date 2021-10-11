@@ -602,7 +602,10 @@ progress {
 .blockquote-footer::before {
   content: "— ";
 }
-
+.img-team {
+    height:400px;
+    width: 400px;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
