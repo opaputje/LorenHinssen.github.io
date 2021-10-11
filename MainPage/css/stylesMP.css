@@ -72,9 +72,18 @@
 *::after {
   box-sizing: border-box;
 }
-.img-team {
+.img-team-L {
     height: 414px;
     width: 414px;
+    position: relative;
+    right: 100px;
+}
+.img-team-A {
+    height: 414px;
+    width: 414px;
+    position: relative;
+    left: 100px;
+    
 }
 @media (prefers-reduced-motion: no-preference) {
   :root {
