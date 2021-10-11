@@ -72,7 +72,10 @@
 *::after {
   box-sizing: border-box;
 }
-
+.img-team {
+    height:400px;
+    width: 400px;
+}
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
