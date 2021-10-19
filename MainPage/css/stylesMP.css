@@ -73,16 +73,14 @@
   box-sizing: border-box;
 }
 .img-teamL {
-    height: 414px;
-    width: 414px;
-    position: relative;
-    right: 100px;
+    width: 35%;
+  height: auto;
+
 }
 .img-teamA {
-    height: 414px;
-    width: 414px;
-    position: relative;
-    left: 80px;
+    width: 35%;
+  height: auto;
+
     
 }
 @media (prefers-reduced-motion: no-preference) {
@@ -614,7 +612,7 @@ progress {
 }
 
 .img-fluid {
-  width: 614px;
+  width: auto;
   height: 409px;
 }
 
