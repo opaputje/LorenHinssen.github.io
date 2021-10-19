@@ -612,8 +612,12 @@ progress {
 }
 
 .img-fluid {
-  width: auto;
-  height: 409px;
+  width: 409px;
+  height: auto;
+}
+.img-project {
+    width: 614px;
+  height: auto;
 }
 
 .img-thumbnail {
