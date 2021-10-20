@@ -73,12 +73,12 @@
   box-sizing: border-box;
 }
 .img-teamL {
-    width: 36%;
+    width: 38%;
   height: auto;
 
 }
 .img-teamA {
-    width: 36%;
+    width: 38%;
   height: auto;
 
     
@@ -86,9 +86,12 @@
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
-  }
+  
 }
-
+.img-sorted{
+    display: flex;
+    justify-content: center;
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -616,8 +619,8 @@ progress {
   height: auto;
 }
 .img-project {
-    width: 614px;
-  height: auto;
+    max-width: 200%;
+    height: auto;
 }
 
 .img-thumbnail {
@@ -11615,6 +11618,9 @@ body {
 
 .projects-section {
   padding: 10rem 0;
+}
+.featured-text {
+    text-align: centered;
 }
 .projects-section .featured-text {
   padding: 2rem;
